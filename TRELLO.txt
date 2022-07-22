@@ -1,3 +1,7 @@
 https://trello.com/b/88Tv8iao/week6-assessment
 https://trello.com/invite/b/88Tv8iao/ddd2689624c06bdcb098b3622e29c473/week6-assessment
 not sure which of those works but hopefully at least 1
+
+https://dashboard.heroku.com/apps/week-6assessment/deploy/github
+
+https://rollbar.com/jackdonnell74/all/items/?sort=%5Bobject%20Object%5D&status=all&date_from=&date_to=&environments=development&activated_to=&framework=&levels=10&levels=20&levels=30&levels=40&levels=50&activated_from=&offset=0&timezone=Asia%2FBangkok&assigned_user=&date_filtering=seen&projects=579141&query=&enc_query=
